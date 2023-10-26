@@ -6,4 +6,8 @@ class Main{
     public int cringeAReturn(int a){
         return a;
     }
+
+    public void ivanPrivet(){
+        System.out.println("Ivan Privet");
+    }
 }
